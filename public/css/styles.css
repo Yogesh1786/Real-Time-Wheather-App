@@ -31,7 +31,7 @@ header {
 
 h2 {
   color: #080705c0;
-  font-size: 55px;
+  font-size: 50px;
   margin-bottom: 16px;
 }
 
@@ -39,7 +39,7 @@ h2 {
   position: absolute;
   top: 54%;
   left: 50%;
-  height: 550px;
+  height: 500px;
   width: 500px;
   transform: translate(-50%, -50%);
   background: linear-gradient(120deg, #47bbff, #2b32b2);
